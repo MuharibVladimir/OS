@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  Program.cpp
+S:\VisualStudio2019\OS4\Program.cpp(39,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+S:\VisualStudio2019\OS4\Program.cpp(39,21): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+S:\VisualStudio2019\OS4\Program.cpp(69,20): warning C4018: '<': signed/unsigned mismatch
+  ThreadPool.cpp
+  Generating Code...
+  OS4.vcxproj -> S:\VisualStudio2019\OS4\Debug\OS4.exe
